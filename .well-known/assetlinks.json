@@ -5,7 +5,7 @@
         ],
         "target": {
             "namespace": "android_app",
-            "package_name": "jp.sugi.sugitomo",
+            "package_name": "com.hodoan.wifi_connector_example",
             "sha256_cert_fingerprints": [
                 "03:89:F5:93:BE:5C:BC:E7:EF:12:3C:09:01:37:12:E2:19:5D:DC:7E:DC:C3:8A:10:A7:C9:55:16:4E:00:B0:12"
             ]
