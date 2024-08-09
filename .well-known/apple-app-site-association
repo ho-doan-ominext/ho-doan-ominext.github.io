@@ -4,7 +4,7 @@
     "details": [
       {
         "appIDs": [
-          "NWSHS9NAK9.jp.sugi.sugitomo.omi"
+          "46W25C8KDG.jp.sugi.sugitomo.omi"
         ],
         "paths": [
           "*"
@@ -19,7 +19,7 @@
   },
   "webcredentials": {
     "apps": [
-      "NWSHS9NAK9.jp.sugi.sugitomo.omi"
+      "46W25C8KDG.jp.sugi.sugitomo.omi"
     ]
   }
 }
