@@ -1,0 +1,25 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": [
+          "NWSHS9NAK9.jp.sugi.sugitomo.omi"
+        ],
+        "paths": [
+          "*"
+        ],
+        "components": [
+          {
+            "/": "/*"
+          }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "NWSHS9NAK9.jp.sugi.sugitomo.omi"
+    ]
+  }
+}
